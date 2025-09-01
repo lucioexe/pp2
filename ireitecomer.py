@@ -1,0 +1,1 @@
+print("COMU CU DE CURIOSO")
